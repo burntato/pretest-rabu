@@ -1,0 +1,4 @@
+POST = Create Resource
+GET = Ambil Resource
+PUT = Update Resource
+DELETE = DELETE Resource
